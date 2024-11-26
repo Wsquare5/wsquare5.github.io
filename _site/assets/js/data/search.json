@@ -1,0 +1,21 @@
+[
+  
+  {
+    "title": "Setting up my personal blog website!",
+    "url": "/wsquare5.github.io/posts/test/",
+    "categories": "Technique, Frontend",
+    "tags": "tutorial",
+    "date": "2024-11-26 13:11:00 +0000",
+    
+
+
+
+
+
+    
+    "snippet": "Lessons Learned for JekyllToday is a big day! I’ve finally set up my personal website (special thanks to my friend Veronica ! This milestone has motivated me to start posting my study notes and tho...",
+    "content": "Lessons Learned for JekyllToday is a big day! I’ve finally set up my personal website (special thanks to my friend Veronica ! This milestone has motivated me to start posting my study notes and thoughts. I firmly believe that learning by sharing and creating outputs is the most effective way to internalize knowledge.  Here are some challenges I encountered while setting up the website and what I learned from them:      GitHub Pages Deployment: Don’t forget to navigate to Settings -&gt; Pages -&gt; Build and deployment and set the source to GitHub Actions.        Using a Dev Container: I tried the development container feature in VS Code for the first time, and it’s amazing! I plan to keep using it for future projects.        Base URL Configuration: I overlooked the baseurl setting in the _config.yml file, which caused issues and took me a while to debug.        Post Title Format: To display posts on the site, make sure the file name includes the date in the correct format.        Generate the icon kit: Follow the chirpy official tutorial and download the zip file from https://realfavicongenerator.net/  "
+  }
+  
+]
+
