@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/wsquare5.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>W-Square</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-11-26T14:15:26+00:00</updated>
+  <updated>2024-11-27T13:37:46+00:00</updated>
   <author>
     <name>kaakii</name>
-    <uri>http://localhost:4000/wsquare5.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/wsquare5.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/wsquare5.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <rights> © 2024 kaakii </rights>
-  <icon>/wsquare5.github.io/assets/img/favicons/favicon.ico</icon>
-  <logo>/wsquare5.github.io/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>Setting up my personal blog website!</title>
-    <link href="http://localhost:4000/wsquare5.github.io/posts/test/" rel="alternate" type="text/html" title="Setting up my personal blog website!" />
+    <link href="http://localhost:4000/posts/test/" rel="alternate" type="text/html" title="Setting up my personal blog website!" />
     <published>2024-11-26T13:11:00+00:00</published>
   
     <updated>2024-11-26T13:11:00+00:00</updated>
   
-    <id>http://localhost:4000/wsquare5.github.io/posts/test/</id>
-    <content src="http://localhost:4000/wsquare5.github.io/posts/test/" />
+    <id>http://localhost:4000/posts/test/</id>
+    <content src="http://localhost:4000/posts/test/" />
     <author>
       <name>kaakii</name>
     </author>
